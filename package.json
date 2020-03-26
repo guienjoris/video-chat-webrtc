@@ -1,5 +1,5 @@
 {
-  "name": "chat-Video-WebRTC",
+  "name": "chat-video-webrtc",
   "version": "1.0.0",
   "description": "A tutorial on building a WebRTC video chat app using SimpleWebRTC.",
   "main": "server.js",
@@ -15,6 +15,7 @@
     "handlebars": "^4.7.3",
     "jquery": "^3.4.1",
     "semantic-ui-css": "^2.4.1",
-    "simplewebrtc": "^3.0.2"
+    "simplewebrtc": "^3.0.2",
+    "webrtc-adapter": "^7.5.1"
   }
 }
